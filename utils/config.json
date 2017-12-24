@@ -1,0 +1,23 @@
+{
+    "reader": {
+        "type": "oracle",
+        "host": "192.168.2.15",
+        "database": "orcl",
+        "table": "",
+        "columns": [],
+        "comments": []
+    },
+
+    "writer": {
+        "database": "default",
+        "table": "",
+        "columns": [],
+        "comments": []
+    },
+
+    "options": {
+        "hdfs_dir": "",
+        "error_dir": ""
+    }
+
+}
